@@ -13,3 +13,9 @@ img{
     width: 50%;
     
 }
+.blog{
+    background-color: red;
+    color: white;
+    text-align: center;
+    margin: 10px 20px;
+}
